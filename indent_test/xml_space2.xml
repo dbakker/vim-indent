@@ -1,0 +1,9 @@
+<xml>
+  <header>
+    <title>boo</title>
+  </header>
+  <entries>
+    <entry>foo</entry>
+    <entry>bar</entry>
+  </entries>
+</xml>

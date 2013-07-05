@@ -1,0 +1,9 @@
+99bottles_space4.c et sts=4 sw=4
+99bottles_space2.c et sts=2 sw=2
+99bottles_direct.c noet ts=4 sts=4 sw=4
+99bottles_soft8.c noet ts=8 sts=4 sw=4
+99bottles_soft4.c noet ts=4 sts=2 sw=2
+xml_space2.xml et sts=2 sw=2
+space4.html et sts=4 sw=4
+empty.txt
+99bottles_noindent.c
